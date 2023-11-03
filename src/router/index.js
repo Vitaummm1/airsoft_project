@@ -9,6 +9,16 @@ const routes = [
       title: "Airsoft Project",
     },
   },
+  {
+    path: "/operator",
+    name: "OperatorPage",
+    component: () => import("@/components/pages/OperatorPage.vue"),
+  },
+  {
+    path: "/group",
+    name: "GroupPage",
+    component: () => import("@/components/pages/GroupPage.vue"),
+  },
 ];
 
 const router = createRouter({

@@ -4,7 +4,10 @@
             <a class="navbar-brand" href="#">Airsoft Agenda</a>
             <ul class="nav justify-content-center">
                 <li class="nav-item">
-                    <a class="nav-link" href="/">Calendário</a>
+                    <a class="nav-link" href="/">Página inicial</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/search">Pesquisar jogo</a>
                 </li>
                 <!-- <li class="nav-item dropdown">
                     <a
